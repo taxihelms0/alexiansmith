@@ -10,6 +10,6 @@ permalink: /s1archive/
 
 <p>This a partial archive trom the time-period spanning from 2014 - 2019. Some things are incomplete. Some Documentation got lost. Some things never got documented in the first place.</p>
 
-<p>At the moment, this archive is focused on the visual-art component of S1's programming. A more comprehensive archive of the breadth of S1's programming is forthcoming.</p>
+<p>At the moment, this archive is focused on the visual-art component of S1's programming. A more comprehensive archive that covers the full scope of S1's programming is forthcoming.</p>
 
 [s1archive](https://s1archive.alexiansmith.com)

@@ -3,4 +3,5 @@ layout: page
 title: about
 permalink: /about/
 ---
-There's nothing here
+
+alex ian smith: 1984 - present
